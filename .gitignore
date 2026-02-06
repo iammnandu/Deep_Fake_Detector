@@ -1,0 +1,9 @@
+# Python venv
+backend/python_service/.venv/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Node
+**/node_modules/
