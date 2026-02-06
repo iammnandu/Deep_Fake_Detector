@@ -19,7 +19,7 @@ Detect whether an image is **AI‑generated** or **real** using a local Python m
 ---
 
 ## 🖼️ Screenshots
-Add your images to `docs/screenshots/` using these filenames:
+
 
 ![Landing Page](docs/screenshots/landing.png)
 ![Upload & Result](docs/screenshots/detect.png)
